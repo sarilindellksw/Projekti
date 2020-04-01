@@ -3,3 +3,5 @@
 ################################################################################
 
 /AspNetWebProjekti/AspNetWebProjekti/bin/Debug/netcoreapp3.1
+/AspNetWebProjekti/AspNetWebProjekti/obj
+/AspNetWebProjekti/.vs/AspNetWebProjekti
